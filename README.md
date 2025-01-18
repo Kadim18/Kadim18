@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-    <a href="https://discord.com/users/933785709762973756"> 
+    <a href="https://discord.com/users/1222227925651165368"> 
         <img align="center" src="https://discord.c99.nl/widget/theme-1/1222227925651165368.png" alt="Discord Widget" />
     </a>
 </p>
@@ -19,7 +19,7 @@
   <a href="https://github.com/kadim18">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Profile Badge" />
   </a>
-  <a href="https://discord.com/users/933785709762973756">
+  <a href="https://discord.com/users/1222227925651165368">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord Profile Badge" />
   </a>
   <a href="https://t.me/wockstarc">
@@ -32,7 +32,7 @@
 ### 😄 About Me
 - 📌 Pronouns: He/Him
 - 💻 Passionate Developer | Gamer | Open-Source Enthusiast
-- 📫 How to reach me? [Click Me!](https://discord.com/users/933785709762973756)
+- 📫 How to reach me? [Click Me!](https://discord.com/users/1222227925651165368)
 
 ---
 
