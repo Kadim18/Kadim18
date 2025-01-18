@@ -65,4 +65,4 @@
 ---
 
 ### 🎮 Discord Status
-[<img height="80px" src="https://discord.c99.nl/widget/theme-5/933785709762973756.png"/>](https://discord.com/users/933785709762973756)
+[<img height="80px" src="https://discord.c99.nl/widget/theme-5/1222227925651165368.png"/>](https://discord.com/users/1222227925651165368)
