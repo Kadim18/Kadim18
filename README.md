@@ -14,7 +14,7 @@
 
 ---
 
-### 🌐 Kontakt
+### 🌐 Contact
 <p align="center">
   <a href="https://github.com/kadim18">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Profile Badge" />
