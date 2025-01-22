@@ -2,14 +2,14 @@
 
 <p align="center">
     <a href="https://discord.com/users/1222227925651165368"> 
-        <img align="center" src="https://discord.c99.nl/widget/theme-1/1222227925651165368.png" alt="Discord Widget" />
+        <img align="center" src="https://lanyard.kyrie25.dev/api/1222227925651165368?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Widget" />
     </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kadim18" alt="Profilbesuche" />
+  <img src="https://komarev.com/ghpvc/?username=kadim18&color=gray&style=plastic" alt="Profilbesuche" />
 </p>
 
 ---
@@ -17,13 +17,13 @@
 ### 🌐 Contact
 <p align="center">
   <a href="https://github.com/kadim18">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Profile Badge" />
+    <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub Profile Badge" />
   </a>
   <a href="https://discord.com/users/1222227925651165368">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord Profile Badge" />
+    <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord Profile Badge" />
   </a>
   <a href="https://t.me/wockstarc">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram Profile Badge" />
+    <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram Profile Badge" />
   </a>
 </p>
 
@@ -58,11 +58,6 @@
 <img align="center" alt="Kadim's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=kadim18&&show_icons=true&theme=tokyonight&layout=compact"/>
 <br>
 <br>
-<img align="center" alt="Kadim's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kadim18&theme=tokyonight&type=png"/>
 </a>
 </details>
 
----
-
-### 🎮 Discord Status
-[<img height="80px" src="https://discord.c99.nl/widget/theme-5/1222227925651165368.png"/>](https://discord.com/users/1222227925651165368)
